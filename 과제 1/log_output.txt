@@ -1,0 +1,38 @@
+[dolssun] Mon May 2 01:14:56 2022 +0900 최종보고서_다이어그램화질조정 5e20c95
+[dolssun] Mon May 2 01:10:29 2022 +0900 최종보고서_(사용자추가) 8ee1e18
+[alison1313] Mon May 2 00:23:49 2022 +0900 보고서 끝 8aba8d6
+[ohminjong] Sun May 1 23:55:13 2022 +0900 보고서 최종 (마지막 수정 필요) b4f1b39
+[dolssun] Sun May 1 23:05:33 2022 +0900 description_합침 3fa24d3
+[alison1313] Sun May 1 21:28:12 2022 +0900 포인트 수정 3006cc0
+[alison1313] Sun May 1 20:19:32 2022 +0900 마이페이지 수정 d12de90
+[alison1313] Sun May 1 19:56:06 2022 +0900 UI screen design 038a5e7
+[alison1313] Sun May 1 19:55:08 2022 +0900 크기 수정 a0e4a65
+[alison1313] Sun May 1 17:31:18 2022 +0900 seller 수정 4c7d6aa
+[alison1313] Sun May 1 16:34:38 2022 +0900 판매자 수정 895bd39
+[alison1313] Sun May 1 14:47:10 2022 +0900 판매자 use case description 843be71
+[alison1313] Sun May 1 14:45:26 2022 +0900 보고서 정리 095ecd1
+[alison1313] Sun May 1 14:42:53 2022 +0900 파일명 정리 8a3f04d
+[dolssun] Sun May 1 03:35:41 2022 +0900 구매자_description 791e8c9
+[ohminjong] Sun May 1 03:14:25 2022 +0900 회원 내용 수정 56205e4
+[ohminjong] Sun May 1 02:31:56 2022 +0900 회원 use case descriptions 수정 80f35ef
+[ohminjong] Sun May 1 02:14:36 2022 +0900 회원 use case descriptions a53b9de
+[ohminjong] Sun May 1 02:05:27 2022 +0900 use case diagram 내용 수정 f167974
+[ohminjong] Sun May 1 02:03:41 2022 +0900 자료 수정 506fa88
+[dolssun] Sat Apr 30 23:43:13 2022 +0900 보고서 3까지완료 64dda5d
+[ohminjong] Sat Apr 30 23:40:11 2022 +0900 보고서 취소 98b699d
+[ohminjong] Sat Apr 30 23:38:50 2022 +0900 use case diagram 수정 f056311
+[ohminjong] Fri Apr 29 22:55:12 2022 +0900 Merge branch 'master' of https://github.com/alison1313/SE 97ea08f
+[ohminjong] Fri Apr 29 22:54:54 2022 +0900 자료 1차 통합 f11c472
+[dolssun] Fri Apr 29 21:56:10 2022 +0900 구매자 1df8174
+[ohminjong] Fri Apr 29 21:51:11 2022 +0900 지움 4849a36
+[ohminjong] Fri Apr 29 21:49:11 2022 +0900 예시 6b0d1f7
+[ohminjong] Fri Apr 29 21:44:17 2022 +0900 예시 887cbee
+[ohminjong] Fri Apr 29 21:43:45 2022 +0900 예시 0863b3d
+[ohminjong] Fri Apr 29 20:24:48 2022 +0900 예시 bdd0e5e
+[ohminjong] Fri Apr 29 20:24:23 2022 +0900 예시 45f0fd4
+[ohminjong] Fri Apr 29 19:50:31 2022 +0900 수정 92b0317
+[ohminjong] Fri Apr 29 19:49:48 2022 +0900 테스트 dff4808
+[alison1313] Fri Apr 29 18:41:17 2022 +0900 seller_yunji c0be010
+[ohminjong] Fri Apr 29 16:00:24 2022 +0900 1차 자료 c4cbd17
+[ohminjong] Fri Apr 29 15:57:18 2022 +0900 1차 자료 56d6074
+[alison1313] Sat Apr 23 22:49:28 2022 +0900 첫번째 버전 33c84b0
