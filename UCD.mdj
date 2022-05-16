@@ -3279,11 +3279,11 @@
 												"$ref": "AAAAAAGAdW8BIiKE3bY="
 											},
 											"font": "Arial;13;1",
-											"left": 1091,
+											"left": 1120,
 											"top": 372,
-											"width": 326,
+											"width": 156,
 											"height": 13,
-											"text": "판매한 모든 상품에 대한 총액 및 평균 구매 만족도 출력"
+											"text": "판매 상품 통계 출력"
 										},
 										{
 											"_type": "LabelView",
@@ -3314,9 +3314,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1086,
+									"left": 1115,
 									"top": 365,
-									"width": 336,
+									"width": 166,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAdW8BIiKFI2o="
@@ -3415,9 +3415,9 @@
 							"font": "Arial;13;0",
 							"showShadow": false,
 							"containerChangeable": true,
-							"left": 1016,
+							"left": 1080,
 							"top": 350,
-							"width": 476,
+							"width": 236,
 							"height": 56,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAdW8BIiKE3bY="
@@ -4286,8 +4286,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1003,
-									"top": 293,
+									"left": 983,
+									"top": 294,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4307,8 +4307,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1007,
-									"top": 278,
+									"left": 987,
+									"top": 280,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -4328,8 +4328,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 996,
-									"top": 322,
+									"left": 974,
+									"top": 323,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4349,8 +4349,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 888,
-									"top": 264,
+									"left": 889,
+									"top": 267,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -4371,7 +4371,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 894,
-									"top": 252,
+									"top": 255,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -4392,7 +4392,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 877,
-									"top": 290,
+									"top": 292,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -4412,8 +4412,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1119,
-									"top": 322,
+									"left": 1077,
+									"top": 321,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -4432,7 +4432,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1120,
+									"left": 1078,
 									"top": 308,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -4452,7 +4452,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1116,
+									"left": 1073,
 									"top": 349,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -4503,7 +4503,7 @@
 								"$ref": "AAAAAAGAdW8BIiJCpGk="
 							},
 							"lineStyle": 1,
-							"points": "860:279;1141:349",
+							"points": "860:281;1098:349",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAdW8BIyLX7Mc="
@@ -9782,7 +9782,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGAdW7QeRWwyUg="
 					},
-					"name": "판매한 모든 상품에 대한 총액 및 평균 구매 만족도 출력",
+					"name": "판매 상품 통계 출력",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
