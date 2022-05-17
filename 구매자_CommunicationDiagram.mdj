@@ -4737,9 +4737,9 @@
 												"$ref": "AAAAAAGAy1Q916U35wc="
 											},
 											"font": "Arial;13;0",
-											"left": 452.20458984375,
+											"left": 451.192138671875,
 											"top": 191,
-											"width": 102.5908203125,
+											"width": 104.61572265625,
 											"height": 13,
 											"alpha": -1.57079566012823,
 											"distance": 15,
@@ -5482,7 +5482,7 @@
 													"top": 374,
 													"width": 99.67724609375,
 													"height": 13,
-													"text": " : 시스템"
+													"text": " : 결제 시스템"
 												},
 												{
 													"_type": "LabelView",
@@ -5494,7 +5494,7 @@
 													"font": "Arial;13;0",
 													"left": -88,
 													"top": -54,
-													"width": 106.20263671875,
+													"width": 110.24609375,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -13054,9 +13054,9 @@
 												"$ref": "AAAAAAGAzBscdua2jgI="
 											},
 											"font": "Arial;13;0",
-											"left": 361.4091796875,
+											"left": 360.6220703125,
 											"top": 224,
-											"width": 140.181640625,
+											"width": 141.755859375,
 											"height": 13,
 											"alpha": -1.892546608464241,
 											"distance": 34.785054261852174,
@@ -14176,9 +14176,9 @@
 											"font": "Arial;13;1",
 											"left": 661,
 											"top": 421,
-											"width": 41.17724609375,
+											"width": 68.61181640625,
 											"height": 13,
-											"text": "시스템"
+											"text": "결제 시스템"
 										},
 										{
 											"_type": "LabelView",
@@ -14188,7 +14188,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -14207,7 +14207,7 @@
 									"font": "Arial;13;0",
 									"left": 656,
 									"top": 414,
-									"width": 51.17724609375,
+									"width": 78.61181640625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAzIpIem0p6+I="
@@ -14283,7 +14283,7 @@
 							"containerChangeable": true,
 							"left": 656,
 							"top": 360,
-							"width": 51.17724609375,
+							"width": 78.61181640625,
 							"height": 80,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAzIpIem0o2gU="
@@ -14327,7 +14327,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGAy0vpSL/MtXM="
 					},
-					"name": "시스템"
+					"name": "결제 시스템"
 				}
 			]
 		}
