@@ -1,0 +1,61 @@
+[alison1313] Wed May 18 22:01:14 2022 +0900 class diagram 4bd8c9b
+[ohminjong] Wed May 18 22:00:19 2022 +0900 과제2 보고서 3a25ad7
+[ohminjong] Wed May 18 21:36:08 2022 +0900 회원 communication 수정 42ffc66
+[dolssun] Wed May 18 21:33:08 2022 +0900 구매자_communicationDiagram수정 9c784fd
+[dolssun] Wed May 18 19:40:31 2022 +0900 Merge branch 'master' of https://github.com/alison1313/SE 6614d22
+[dolssun] Wed May 18 19:40:27 2022 +0900 구매자_classdiagram합침 4f30a75
+[ohminjong] Wed May 18 19:37:38 2022 +0900 다이어그램 병합 8e55c08
+[ohminjong] Wed May 18 19:31:46 2022 +0900 회원 수정 f03c933
+[dolssun] Wed May 18 19:29:03 2022 +0900 구매자_class diagram 3a675fb
+[dolssun] Wed May 18 19:20:23 2022 +0900 Merge branch 'master' of https://github.com/alison1313/SE 6ddd71e
+[alison1313] Wed May 18 16:40:34 2022 +0900 판매자 class diagram ed6d36c
+[alison1313] Wed May 18 16:38:10 2022 +0900 정리 5d7a30a
+[dolssun] Wed May 18 00:51:23 2022 +0900 구매자_classDiagrams 83c84b0
+[dolssun] Tue May 17 18:19:26 2022 +0900 구매자_시스템 -> 결제시스템 변경 fb05d02
+[ohminjong] Tue May 17 15:46:22 2022 +0900 회원 2d136f8
+[alison1313] Mon May 16 22:19:40 2022 +0900 판매자 use case 이름 수정 19c9ca1
+[alison1313] Mon May 16 22:16:52 2022 +0900 판매자 ca54739
+[dolssun] Mon May 16 21:29:39 2022 +0900 구매자_함수명변경내용 892ff6a
+[dolssun] Mon May 16 21:25:00 2022 +0900 구매자_함수명영문작성, 변경내용첨부 f5537ff
+[dolssun] Mon May 16 14:52:18 2022 +0900 구매자 Communication_Diagram_액터추가,순서변경,판매자object추가 ba249a1
+[dolssun] Sun May 15 18:14:42 2022 +0900 구매자_Communication_Diagram 7925a2d
+[dolssun] Sun May 15 00:56:29 2022 +0900 구매자 description 수정 7549d8b
+[alison1313] Thu May 12 17:36:28 2022 +0900 과제2 -수정 1d3e3a3
+[dolssun] Mon May 2 01:14:56 2022 +0900 최종보고서_다이어그램화질조정 5e20c95
+[dolssun] Mon May 2 01:10:29 2022 +0900 최종보고서_(사용자추가) 8ee1e18
+[alison1313] Mon May 2 00:23:49 2022 +0900 보고서 끝 8aba8d6
+[ohminjong] Sun May 1 23:55:13 2022 +0900 보고서 최종 (마지막 수정 필요) b4f1b39
+[dolssun] Sun May 1 23:05:33 2022 +0900 description_합침 3fa24d3
+[alison1313] Sun May 1 21:28:12 2022 +0900 포인트 수정 3006cc0
+[alison1313] Sun May 1 20:19:32 2022 +0900 마이페이지 수정 d12de90
+[alison1313] Sun May 1 19:56:06 2022 +0900 UI screen design 038a5e7
+[alison1313] Sun May 1 19:55:08 2022 +0900 크기 수정 a0e4a65
+[alison1313] Sun May 1 17:31:18 2022 +0900 seller 수정 4c7d6aa
+[alison1313] Sun May 1 16:34:38 2022 +0900 판매자 수정 895bd39
+[alison1313] Sun May 1 14:47:10 2022 +0900 판매자 use case description 843be71
+[alison1313] Sun May 1 14:45:26 2022 +0900 보고서 정리 095ecd1
+[alison1313] Sun May 1 14:42:53 2022 +0900 파일명 정리 8a3f04d
+[dolssun] Sun May 1 03:35:41 2022 +0900 구매자_description 791e8c9
+[ohminjong] Sun May 1 03:14:25 2022 +0900 회원 내용 수정 56205e4
+[ohminjong] Sun May 1 02:31:56 2022 +0900 회원 use case descriptions 수정 80f35ef
+[ohminjong] Sun May 1 02:14:36 2022 +0900 회원 use case descriptions a53b9de
+[ohminjong] Sun May 1 02:05:27 2022 +0900 use case diagram 내용 수정 f167974
+[ohminjong] Sun May 1 02:03:41 2022 +0900 자료 수정 506fa88
+[dolssun] Sat Apr 30 23:43:13 2022 +0900 보고서 3까지완료 64dda5d
+[ohminjong] Sat Apr 30 23:40:11 2022 +0900 보고서 취소 98b699d
+[ohminjong] Sat Apr 30 23:38:50 2022 +0900 use case diagram 수정 f056311
+[ohminjong] Fri Apr 29 22:55:12 2022 +0900 Merge branch 'master' of https://github.com/alison1313/SE 97ea08f
+[ohminjong] Fri Apr 29 22:54:54 2022 +0900 자료 1차 통합 f11c472
+[dolssun] Fri Apr 29 21:56:10 2022 +0900 구매자 1df8174
+[ohminjong] Fri Apr 29 21:51:11 2022 +0900 지움 4849a36
+[ohminjong] Fri Apr 29 21:49:11 2022 +0900 예시 6b0d1f7
+[ohminjong] Fri Apr 29 21:44:17 2022 +0900 예시 887cbee
+[ohminjong] Fri Apr 29 21:43:45 2022 +0900 예시 0863b3d
+[ohminjong] Fri Apr 29 20:24:48 2022 +0900 예시 bdd0e5e
+[ohminjong] Fri Apr 29 20:24:23 2022 +0900 예시 45f0fd4
+[ohminjong] Fri Apr 29 19:50:31 2022 +0900 수정 92b0317
+[ohminjong] Fri Apr 29 19:49:48 2022 +0900 테스트 dff4808
+[alison1313] Fri Apr 29 18:41:17 2022 +0900 seller_yunji c0be010
+[ohminjong] Fri Apr 29 16:00:24 2022 +0900 1차 자료 c4cbd17
+[ohminjong] Fri Apr 29 15:57:18 2022 +0900 1차 자료 56d6074
+[alison1313] Sat Apr 23 22:49:28 2022 +0900 첫번째 버전 33c84b0
