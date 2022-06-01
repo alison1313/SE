@@ -8,12 +8,13 @@ using namespace std;
 class AddNewProduct
 {
 private:
-    AddNewProductUI boundaryClass;
+    AddNewProductUI* boundaryClass;
     Seller sellerUser;
 public:
     AddNewProduct();
     AddNewProduct(ifstream& in, ofstream& out);
-    ~AddNewProduct() {};
+    ~AddNewProduct() { delete boundaryClass; };
     void addNewProduct(string name, string companyName, int price, int quantity);
+    AddNewProductUI* getBoundary() { return boundaryClass; };
 };
 

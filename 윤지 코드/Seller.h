@@ -1,14 +1,13 @@
 #pragma once
 #include <iostream>
-#include "User.h"
-#include "ProductCollection.h"
+#include "SellerProductCollection.h"
 using namespace std;
 
-class Seller:public User
+class Seller
 {
 private:
-	ProductCollection sellingProductCollection;
-	ProductCollection soldProductCollection;
+	SellerProductCollection sellingProductCollection;
+	SellerProductCollection soldProductCollection;
 
 public:
 	Seller();

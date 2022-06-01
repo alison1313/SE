@@ -2,7 +2,7 @@
 #include "AddNewProduct.h"
 
 AddNewProductUI::AddNewProductUI(AddNewProduct* control) {
-	this->controlClass = control;
+	controlClass = control;
 }
 void AddNewProductUI::startInterface() {
 

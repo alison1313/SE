@@ -21,7 +21,7 @@
     <ClCompile Include="Product.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ProductCollection.cpp">
+    <ClCompile Include="SellerProductCollection.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Seller.cpp">
@@ -38,7 +38,7 @@
     <ClInclude Include="Product.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="ProductCollection.h">
+    <ClInclude Include="SellerProductCollection.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Seller.h">

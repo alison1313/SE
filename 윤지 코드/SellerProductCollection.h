@@ -5,15 +5,15 @@ using namespace std;
 
 #define MAX 20
 
-class ProductCollection
+class SellerProductCollection
 {
 private:
     int productCount;
     Product ownedProduct[MAX];
 
 public:
-    ProductCollection();
-    ~ProductCollection() {};
+    SellerProductCollection();
+    ~SellerProductCollection() {};
 
     void addProduct(string name, string companyName, int price, int quantity);
     void removeProduct(string name);

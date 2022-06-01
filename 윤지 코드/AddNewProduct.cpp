@@ -1,12 +1,17 @@
 #include "AddNewProduct.h"
 
 AddNewProduct::AddNewProduct() {
-	AddNewProductUI boundaryClass(this);
+	AddNewProductUI* boundary = new AddNewProductUI(this);
+	//ddNewProductUI boundary(this);
+	boundaryClass = boundary;
 }
 
 AddNewProduct::AddNewProduct(ifstream& in, ofstream& out) {
-	AddNewProductUI boundaryClass(this);
-	boundaryClass.insertInfo(in, out);
+	//AddNewProductUI boundaryClass(this);
+	AddNewProductUI* boundary = new AddNewProductUI(this);
+	//AddNewProductUI boundary(this);
+	boundaryClass = boundary;
+	boundaryClass->insertInfo(in, out);
 }
 
 void AddNewProduct::addNewProduct(string name, string companyName, int price, int quantity) {
