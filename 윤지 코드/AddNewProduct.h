@@ -14,7 +14,7 @@ public:
     AddNewProduct();
     AddNewProduct(ifstream& in, ofstream& out);
     ~AddNewProduct() { delete boundaryClass; };
-    void addNewProduct(string name, string companyName, int price, int quantity);
+    SellerProductCollection* addNewProduct(string name, string companyName, int price, int quantity);
     AddNewProductUI* getBoundary() { return boundaryClass; };
 };
 

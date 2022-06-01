@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 class AddNewProduct;
+class SellerProductCollection;
 using namespace std;
 
 class AddNewProductUI
@@ -12,5 +13,5 @@ public:
     AddNewProductUI(AddNewProduct* controlClass);
     ~AddNewProductUI() {};
     void startInterface();
-    void insertInfo(ifstream& in, ofstream& out);
+    SellerProductCollection* insertInfo(ifstream& in, ofstream& out);
 };

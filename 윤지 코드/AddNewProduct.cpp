@@ -14,6 +14,7 @@ AddNewProduct::AddNewProduct(ifstream& in, ofstream& out) {
 	boundaryClass->insertInfo(in, out);
 }
 
-void AddNewProduct::addNewProduct(string name, string companyName, int price, int quantity) {
+SellerProductCollection* AddNewProduct::addNewProduct(string name, string companyName, int price, int quantity) {
 	sellerUser.addNewProduct(name, companyName, price, quantity);
+	return sellerUser.getSellingCollection();
 }

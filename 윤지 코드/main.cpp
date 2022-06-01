@@ -50,6 +50,7 @@ void doTask()
     int is_program_exit = 0;
 
     AddNewProduct* addNewProductControl = new AddNewProduct();
+    SellerProductCollection* sellingProductList = new SellerProductCollection();
 
     while (!is_program_exit)
     {
@@ -88,7 +89,7 @@ void doTask()
                 // addNewProduct() 함수에서 해당 기능 수행 
                 //addNewProduct();
 
-                addNewProductControl->getBoundary()->insertInfo(input, output);
+                sellingProductList->setNext(addNewProductControl->getBoundary()->insertInfo(input, output));
                 break;
             }
             case 2: // "3.2. 등록 상품 조회“ 메뉴 부분

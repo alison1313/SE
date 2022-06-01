@@ -10,6 +10,7 @@ class SellerProductCollection
 private:
     int productCount;
     Product ownedProduct[MAX];
+    SellerProductCollection* next;
 
 public:
     SellerProductCollection();
@@ -17,4 +18,6 @@ public:
 
     void addProduct(string name, string companyName, int price, int quantity);
     void removeProduct(string name);
+    void setNext(SellerProductCollection* pt) { next = pt; };
+    SellerProductCollection* getNext() { return next; };
 };
